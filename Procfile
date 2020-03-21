@@ -1,0 +1,1 @@
+web: gunicorn delayer_api:app
